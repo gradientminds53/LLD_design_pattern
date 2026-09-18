@@ -11,14 +11,4 @@
 11. Microservices Patterns
 
 
-SOLID
-↓
-Dependency Injection
-↓
-Repository Pattern
-↓
-Clean Architecture
-↓
-Event Driven Architecture
-↓
-Microservices
+SOLID -> Dependency Injection ↓ -> Repository Pattern ↓ -> Clean Architecture ↓ -> Event Driven Architecture -> ↓Microservices
