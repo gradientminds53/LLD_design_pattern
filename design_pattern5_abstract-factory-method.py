@@ -27,6 +27,18 @@ The client only asks the factory, not the specific classes.
 
 Abstract Factory is a creational design pattern that provides an interface to create families of related objects without specifying their concrete classes.
 
+Factory Method  -> One product
+Abstract Factory -> Family of products
+
+EmailFactory:
+   -> EmailSender
+   -> EmailTemplate
+
+SMSFactory:
+   -> SMSSender
+   -> SMSTemplate
+
+
 """
 
 class WindowsFactory:
